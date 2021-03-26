@@ -1,10 +1,10 @@
 import React from 'react';
 import * as S from './style';
 
-const IconButton = ({ children}: { children: any }) => {
+const IconButton = ({ iconSrc }: { iconSrc: string }) => {
   return (
     <S.Wrapper>
-      {children}
+      <S.Icon src={iconSrc} />
     </S.Wrapper>
   );
 };

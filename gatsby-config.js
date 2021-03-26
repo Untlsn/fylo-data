@@ -4,14 +4,6 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-styled-components',
-    require('./gatsby-aliases'),
-    {
-      resolve: 'gatsby-plugin-react-svg',
-      options: {
-        rule: {
-          include: /\.inline\.svg$/
-        }
-      }
-    }
+    require('./gatsby-aliases')
   ],
 };

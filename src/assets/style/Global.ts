@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     min-height: 100vh;
     color: ${({ theme }) => theme.colors.white};
-    background-color: ${({ theme }) => theme.colors.veryDarkBlue};
+    background-color: ${({ theme }) => theme.colors.darkBlue};
   }
   
   html {
