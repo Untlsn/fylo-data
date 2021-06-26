@@ -1,7 +1,6 @@
-# Fylo Data [![Netlify Status](https://api.netlify.com/api/v1/badges/c547103f-484b-4685-baad-89a656a88a9f/deploy-status)](https://app.netlify.com/sites/vigorous-spence-7fcd5c/deploys)
+# Fylo Data [![Netlify Status](https://api.netlify.com/api/v1/badges/c547103f-484b-4685-baad-89a656a88a9f/deploy-status)](https://app.netlify.com/sites/untlsn-disk-data/deploys)
 Own version of project from [Fylo Data](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n) from Frontend Mentor create in gatsby
-## Netlify page
-*https://vigorous-spence-7fcd5c.netlify.app/*
+## [Netlify page](https://untlsn-disk-data.netlify.app)
 # Start
 - For run only on device
   - npm
